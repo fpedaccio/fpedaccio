@@ -7,7 +7,10 @@
 :seedling: I'm currently learning Python
 
 :cyclone:: What i love? :  I like computer science, economics, physics, astrophysics, rocket science. Or rather the perfect combination of them.
+
 ![espaciador](https://i.imgur.com/qcJcd2S.jpg)
+
+
 <!--
 **fpedaccio/fpedaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
