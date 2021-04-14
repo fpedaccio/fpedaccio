@@ -6,8 +6,8 @@
 
 :seedling: I'm currently learning Python
 
-:cyclone:: Fun fact:  I like computer science, economics, physics, astrophysics, rocket science. Or rather the perfect combination of them.
-
+:cyclone:: What i love? :  I like computer science, economics, physics, astrophysics, rocket science. Or rather the perfect combination of them.
+![espaciador](https://i.imgur.com/qcJcd2S.jpg)
 <!--
 **fpedaccio/fpedaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpedaccio)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpedaccio)](https://github.com/anuraghazra/github-readme-stats)
 
+![espaciador](https://i.imgur.com/vWWA2OF.jpg)
+
+# :telescope: Connet whit me
+
+* :sparkles:Twitter = https://twitter.com/FPedaccio
+* * :sparkles:Email = fpedaccio@uade.edu.ar
