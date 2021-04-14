@@ -2,6 +2,7 @@
 ### Future SpaceX Flight Software Engineer :rocket:
 
 :books:To achieve that I’m currently studying Computer engineering at Universidad Argentina de la Empresa 
+
 :seedling:I'm currently learning Python
 <!--
 **fpedaccio/fpedaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
