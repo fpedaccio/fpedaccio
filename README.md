@@ -1,7 +1,7 @@
-# :rocket: Future SpaceX flight Software Engineer :rocket:
+# Hello there! :wave: Im Facundo Pedaccio
+### rocket: Future SpaceX Flight Software Engineer :rocket:
 
-### To achieve that I’m currently studying Computer engineering at Universidad Argentina de la Empresa :books:
-
+🌱 To achieve that I’m currently studying Computer engineering at Universidad Argentina de la Empresa :books
 
 <!--
 **fpedaccio/fpedaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
