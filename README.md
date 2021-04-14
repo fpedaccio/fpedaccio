@@ -1,4 +1,4 @@
- ![espaciador](C:\Users\facun\Downloads\separador6.jpg)
+ ![espaciador](https://imgur.com/a/00ja4se)
 # Hello there! :wave: Im Facundo Pedaccio
 ### Future SpaceX Flight Software Engineer :rocket:
 
