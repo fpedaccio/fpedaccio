@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 # :telescope: Connet whit me
 
 * :sparkles:Twitter = https://twitter.com/FPedaccio
-* * :sparkles:Email = fpedaccio@uade.edu.ar
+* :sparkles:Email = fpedaccio@uade.edu.ar
