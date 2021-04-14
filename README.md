@@ -6,7 +6,7 @@
 
 :seedling: I'm currently learning Python
 
-:droplet: Fun fact:  I like computer science, economics, physics, astrophysics, rocket science. Or rather the perfect combination of them.
+:cyclone:: Fun fact:  I like computer science, economics, physics, astrophysics, rocket science. Or rather the perfect combination of them.
 
 <!--
 **fpedaccio/fpedaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
