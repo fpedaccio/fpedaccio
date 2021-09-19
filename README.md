@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![espaciador](https://i.imgur.com/vWWA2OF.jpg)
 
-# :telescope: Connet whit me
+# :telescope: Connet with me
 
 * :sparkles:Twitter = https://twitter.com/FPedaccio
 * :sparkles:Email = fpedaccio@uade.edu.ar
