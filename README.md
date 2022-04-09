@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 ![espaciador](https://i.imgur.com/vWWA2OF.jpg)
 
 # :telescope: Connet with me
-
+* :sparkles:LinkedIn = https://www.linkedin.com/in/facundo-pedaccio-57a92b1ba/
 * :sparkles:Twitter = https://twitter.com/FPedaccio
 * :sparkles:Email = fpedaccio@uade.edu.ar
